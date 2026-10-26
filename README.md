@@ -1,53 +1,54 @@
-<div align="center">
+<!--
+  Colour note: GitHub strips CSS/inline colour from Markdown, so the coloured
+  titles below are shields.io badge images (sage #87A878, lavender #B8A9C9).
+  Each one has alt text, so screen readers still get the title.
+-->
 
-# [Your Name]
+<h1 align="center">[Your Name]</h1>
 
-### Security Leadership · Governance, Risk & Compliance
+<p align="center">
+  <img alt="Aspiring Security Leader" src="https://img.shields.io/badge/Aspiring%20Security%20Leader-87A878?style=for-the-badge&labelColor=87A878" />
+</p>
+<p align="center">
+  <img alt="GRC and Risk" src="https://img.shields.io/badge/GRC%20%26%20Risk-B8A9C9?style=for-the-badge&labelColor=B8A9C9" />
+  <img alt="Cyberdefense" src="https://img.shields.io/badge/Cyberdefense-B8A9C9?style=for-the-badge&labelColor=B8A9C9" />
+</p>
 
-![Security Leadership](https://img.shields.io/badge/Security_Leadership-87A878?style=for-the-badge)
-![GRC](https://img.shields.io/badge/GRC-B8A9C9?style=for-the-badge)
-![Risk Management](https://img.shields.io/badge/Risk_Management-87A878?style=for-the-badge)
-
-☽ &nbsp; **[CipherOps](https://lattice-walker.github.io/CipherOps/)** &nbsp; ☀
-
-*Prepare now. Be safe later.*
-
-</div>
+<p align="center">
+  Governance, risk and compliance, grounded in real technical understanding.
+</p>
 
 ---
 
-## 👋 About
+<img alt="About" src="https://img.shields.io/badge/About-87A878?style=flat-square&labelColor=87A878" />
 
-I'm building a career in **security leadership and GRC**: risk management, security governance and compliance. My cyberdefense studies and hands-on technical projects give me the depth to understand the controls and risks I'll be responsible for, including long-term ones such as post-quantum readiness.
+I am building a career in **security leadership and GRC**: security governance, risk management and compliance. My cyberdefense studies and hands-on technical projects give me the depth to understand the controls and risks I will be responsible for, including long-term ones such as post-quantum readiness.
 
-> [Optional: one sentence stating your current status, e.g. "Cyberdefense student, open to GRC / security governance roles starting [month/year]."]
+<img alt="Focus" src="https://img.shields.io/badge/Focus-87A878?style=flat-square&labelColor=87A878" />
 
-## 🎯 Focus
+<img alt="Governance" src="https://img.shields.io/badge/Governance%20%26%20Policy-B8A9C9?style=flat-square&labelColor=B8A9C9" />
 
-| | |
-|---|---|
-| **Primary** | Security leadership, governance, risk management, compliance |
-| **Frameworks I'm studying** | [e.g. ISO 27001, NIST CSF, NIS2, DORA, only list what is true] |
-| **Technical grounding** | Cryptography, networking, cyberdefense |
+Security policy and governance structures. <!-- Add what you have actually studied or written. -->
 
-## 📚 Selected work
+<img alt="Risk" src="https://img.shields.io/badge/Risk%20Management-B8A9C9?style=flat-square&labelColor=B8A9C9" />
 
-**Governance & GRC**
-- [Title of governance / risk article or project](link): one line on what it shows
-- [Policy, risk register or framework-mapping project](link): one line
+Risk assessment and treatment. <!-- Add frameworks you have studied, e.g. ISO 27005, NIST. -->
 
-**Technical (supporting)**
-- Post-quantum cryptography articles and study notes → [CipherOps Articles](https://lattice-walker.github.io/CipherOps/display_articles/articles.html)
-- Coursework and notes → [CipherOps Courses](https://lattice-walker.github.io/CipherOps/display_courses/courses.html)
-- Hands-on builds → [CipherOps Practical Projects](https://lattice-walker.github.io/CipherOps/display_practicalprojects/practicalprojects.html)
+<img alt="Compliance" src="https://img.shields.io/badge/Compliance-B8A9C9?style=flat-square&labelColor=B8A9C9" />
 
-## 🎓 Learning & certifications
+Frameworks and regulations. <!-- Only list those you have genuinely worked with, e.g. ISO 27001, NIS2, GDPR. -->
 
-- [Certification or course in progress, with expected date]
-- [Completed certification, if any]
+<img alt="Selected work" src="https://img.shields.io/badge/Selected%20Work-87A878?style=flat-square&labelColor=87A878" />
 
-## 📬 Contact
+- **GRC and governance:** <!-- link your best governance, risk or policy project or article here -->
+- **Writing:** articles on security, post-quantum cryptography and mathematics on my blog, [CipherOps](https://lattice-walker.github.io/CipherOps/)
+- **Courses and study notes:** [cyberdefense coursework](https://lattice-walker.github.io/CipherOps/display_courses/courses.html)
+- **Technical projects:** [hands-on implementations](https://lattice-walker.github.io/CipherOps/display_practicalprojects/practicalprojects.html)
 
-[![Blog](https://img.shields.io/badge/Blog-CipherOps-87A878?style=flat-square)](https://lattice-walker.github.io/CipherOps/)
-[![Contact](https://img.shields.io/badge/Contact-Get_in_touch-B8A9C9?style=flat-square)](https://lattice-walker.github.io/CipherOps/contact/contact.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-87A878?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle)
+<img alt="Learning" src="https://img.shields.io/badge/Currently%20Learning-87A878?style=flat-square&labelColor=87A878" />
+
+<!-- Certifications or frameworks in progress. Remove this section if none. -->
+
+<img alt="Contact" src="https://img.shields.io/badge/Contact-87A878?style=flat-square&labelColor=87A878" />
+
+[Blog](https://lattice-walker.github.io/CipherOps/) · [Contact page](https://lattice-walker.github.io/CipherOps/contact/contact.html) · [LinkedIn](https://www.linkedin.com/in/your-profile)
